@@ -37,16 +37,16 @@ Desarrollador con 5 años de experiencia generando aplicaciones web para empresa
     <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="mysql" width="40" height="40"/> 
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_200_200/0/1665755678671?e=1698883200&v=beta&t=p3f_v1SRFrbTHjFszlGDlUUGdwUvP39fO7ij20Q7adI" alt="oracle" width="40" height="40"/> 
+    <img src="https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_200_200/0/1665755678957/oracle_logo?e=1713398400&v=beta&t=pSDrUHa8gG7tWrNQjkaTfC-pliNwmqeGwMGE7WIJQtI" alt="oracle" width="40" height="40"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.licdn.com/dms/image/D4E0BAQHbvHp_rgpxOw/company-logo_200_200/0/1689867967887?e=1698883200&v=beta&t=weKbFshX_V2kCTQ-4bs4YHTWmjLNiQoMidywfPbE1Jw" alt="docker" width="40" height="40"/> 
+    <img src="https://media.licdn.com/dms/image/D4E0BAQHbvHp_rgpxOw/company-logo_200_200/0/1689867968149/docker_logo?e=1713398400&v=beta&t=6e9ddATVpbETkhgqxaR6WA-TzmFO7Wmpuv4CSD3ECDU" alt="docker" width="40" height="40"/> 
   </a>
   <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_200_200/0/1670264050886?e=1698883200&v=beta&t=p5Zo5m0VM5DOCtKOQYO6S-gwHNUdFZRCrWagvTeMMvI" alt="aws" width="40" height="40"/> 
+    <img src="https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_200_200/0/1670264051233/amazon_web_services_logo?e=1713398400&v=beta&t=HzATN-RMsp80NtMydkTqmGXrEvR_ULQjFXjtQxuIuUM" alt="aws" width="40" height="40"/> 
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.licdn.com/dms/image/D4E0BAQEkdYDff7EnPQ/company-logo_200_200/0/1688925242466?e=1698883200&v=beta&t=YUmT7rteuVfTHOXarrE3W1cnaYexV2A73Z2mt6jtHrk" alt="azure" width="40" height="40"/> 
+    <img src="https://media.licdn.com/dms/image/C4E07AQE0EGJSSvPJFA/group-logo_image-shrink_92x92/0/1552171551012?e=1705705200&v=beta&t=EF7Y15HI9VoavPwy9wl7LZ1e43F9BAhqSJKs86IBhsM" alt="azure" width="40" height="40"/> 
   </a>
 </p>
 
