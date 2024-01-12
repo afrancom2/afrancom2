@@ -50,7 +50,7 @@ Desarrollador con 5 años de experiencia generando aplicaciones web para empresa
   </a>
 </p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=afrancom2&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="afrancom2" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=afrancom2&show_icons=true&theme=gruvbox&locale=es&layout=compact" alt="afrancom2" />
 
 ## Estado actual
 
@@ -62,4 +62,4 @@ Desarrollador con 5 años de experiencia generando aplicaciones web para empresa
 
 🤔 Estoy buscando ayuda sobre Apache Kafka con Spring Boot, Elastisearch, Nest con GraphQL.
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afrancom2&show_icons=true&theme=gruvbox&locale=en" alt="afrancom2" />
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afrancom2&show_icons=true&theme=gruvbox&locale=es" alt="afrancom2" />
