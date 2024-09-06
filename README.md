@@ -36,18 +36,6 @@ Desarrollador con 5 años de experiencia generando aplicaciones web para empresa
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="mysql" width="40" height="40"/> 
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_200_200/0/1665755678957/oracle_logo?e=1713398400&v=beta&t=pSDrUHa8gG7tWrNQjkaTfC-pliNwmqeGwMGE7WIJQtI" alt="oracle" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.licdn.com/dms/image/D4E0BAQHbvHp_rgpxOw/company-logo_200_200/0/1689867968149/docker_logo?e=1713398400&v=beta&t=6e9ddATVpbETkhgqxaR6WA-TzmFO7Wmpuv4CSD3ECDU" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_200_200/0/1670264051233/amazon_web_services_logo?e=1713398400&v=beta&t=HzATN-RMsp80NtMydkTqmGXrEvR_ULQjFXjtQxuIuUM" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://media.licdn.com/dms/image/C4E07AQE0EGJSSvPJFA/group-logo_image-shrink_92x92/0/1552171551012?e=1705705200&v=beta&t=EF7Y15HI9VoavPwy9wl7LZ1e43F9BAhqSJKs86IBhsM" alt="azure" width="40" height="40"/> 
-  </a>
 </p>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=afrancom2&show_icons=true&theme=gruvbox&locale=es&layout=compact" alt="afrancom2" />
