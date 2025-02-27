@@ -4,7 +4,7 @@
 
 ## 🚀 Acerca de mí
 
-Desarrollador con  más de 5 años de experiencia generando aplicaciones web para empresas del sector bancario, sector público y privado; En mis recientes experiencias como desarrollador Full Stack he manejado frameworks como Angular y Spring Boot, creando aplicaciones desde los primeros conceptos hasta la puesta en ambiente productivo, todo esto me ha llevado a expandir mi conocimiento y aprender nuevas tecnologías que se manejan en mi ámbito laboral.
+Desarrollador con más de 5 años de experiencia en la creación de aplicaciones web para empresas del sector bancario, público y privado; En mis recientes experiencias como desarrollador Full Stack he trabajado con frameworks como Angular y Spring Boot, creando aplicaciones desde los primeros conceptos hasta la implementación en entornos productivos, todo esto me ha llevado a expandir mi conocimiento y aprender nuevas tecnologías utilizadas en mi ámbito laboral.
 
 ## 🛠 Habilidades
 
@@ -42,12 +42,12 @@ Desarrollador con  más de 5 años de experiencia generando aplicaciones web par
 
 ## Estado actual
 
-👩‍💻 Estoy en busqueda de nuevas oportunidades para demostrar mis conocimientosen las siguientes tecnologias Spring Boot, Angular, Docker, MySql Javascript, Aws, etc.
+👩‍💻 Estoy en búsqueda de nuevas oportunidades para demostrar mis conocimientos en las siguientes tecnologías Spring Boot, Angular, Docker, MySQL, JavaScript, AWS, entre otras.
 
-🧠 Actualmente estoy incursionando sobre NodeJs especificamente en el framework de Nest con GraphQL.
+🧠 Actualmente estoy incursionando en Node.js específicamente en el framework de Nest con GraphQL.
 
-👯‍♀️ Estoy abierto a colaborar en proyectos, especialmente con Angular, Javascript, Java, SpringBoot y NodeJs.
+👯‍♀️ Estoy abierto a colaborar en proyectos, especialmente con Angular, JavaScript, Java, Spring Boot y Node.js.
 
-🤔 Estoy buscando ayuda sobre Apache Kafka con Spring Boot, Elastisearch, Nest con GraphQL.
+🤔 Estoy buscando ayuda sobre Apache Kafka con Spring Boot, Elasticsearch y Nest con GraphQL.
 
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afrancom2&show_icons=true&theme=gruvbox&locale=es" alt="afrancom2" />
