@@ -4,7 +4,7 @@
 
 ## 🚀 Acerca de mí
 
-Desarrollador con 5 años de experiencia generando aplicaciones web para empresas del sector bancario, sector público y privado; En mis recientes experiencias como desarrollador Full Stack he manejado frameworks como Angular y Spring Boot, creando aplicaciones desde los primeros conceptos hasta la puesta en ambiente productivo, todo esto me ha llevado a expandir mi conocimiento y aprender nuevas tecnologías que se manejan en mi ámbito laboral.
+Desarrollador con  más de 5 años de experiencia generando aplicaciones web para empresas del sector bancario, sector público y privado; En mis recientes experiencias como desarrollador Full Stack he manejado frameworks como Angular y Spring Boot, creando aplicaciones desde los primeros conceptos hasta la puesta en ambiente productivo, todo esto me ha llevado a expandir mi conocimiento y aprender nuevas tecnologías que se manejan en mi ámbito laboral.
 
 ## 🛠 Habilidades
 
@@ -42,7 +42,7 @@ Desarrollador con 5 años de experiencia generando aplicaciones web para empresa
 
 ## Estado actual
 
-👩‍💻 Estoy trabajando en [Soho](https://www.linkedin.com/company/sohohumantech/), como desarrollador Full Stack con tecnologias como Java, Spring Boot, Angular, Docker, MySql Javascript, Azure, etc.
+👩‍💻 Estoy en busqueda de nuevas oportunidades para demostrar mis conocimientosen las siguientes tecnologias Spring Boot, Angular, Docker, MySql Javascript, Aws, etc.
 
 🧠 Actualmente estoy incursionando sobre NodeJs especificamente en el framework de Nest con GraphQL.
 
